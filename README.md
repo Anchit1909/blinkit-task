@@ -1,5 +1,6 @@
 <img alt="Blinkit Assignment" src="/client/public/Screenshot.png">
 <h1 align="center">Blinkit Assignment</h1>
+GitHub URL: https://github.com/Anchit1909/blinkit-task
 
 SetUp Frontend:
 
